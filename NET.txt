@@ -1,0 +1,4 @@
+API seguis codeando en .NET? Es .NET ASP? Asp net core es lo nuevo
+NET 6 o NET 7? .Net 7
+Que editor usas, Visual Code de MS? vs studio 2023 community
+Y base de datos SQL supongo, pero cual en particular? Postgres? Postgress https://supabase.com/  
